@@ -31,7 +31,7 @@
 
 ---
 ## 🖥️ Stats <br>
-![](https://github-readme-stats.vercel.app/api?username=eduberenguer)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduberenguer&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduberenguer)
 
 ---
