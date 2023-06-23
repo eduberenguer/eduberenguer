@@ -2,10 +2,6 @@
 
 ### I'm a frontend from Spain, I'm passionate on creating technology to elevate people, and building community. Some technologies I enjoy working with are ReactJS and Javascript. <br/><br>
 
--   🌱 I’m currently learning Typescript and Redux
-
--   💬 Ask me about react
-
 -   📫 How to reach me eddiberenguer@gmail.com
 
 -   🐕 I love dogs
