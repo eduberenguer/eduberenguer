@@ -1,8 +1,11 @@
 ## Hi there 👋, i´m Edu Berenguer <br><br>
 
 - 👋 Hi, I'm Edu, a frontend developer from Spain (Madrid). I'm passionate about working with ReactJS and TypeScript to create impactful user experiences. Exploring the possibilities of web development.
+
 - 💻 Technologies: TypeScript, ReactJS, Sass, Git, Redux, Firebase, MongoDB, Express, MeteorJS.
+
 - 📫 How to reach me: eddiberenguer@gmail.com.
+
 - 🐕 I love dogs.
 
 ---
