@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Edu, a frontend developer from Spain (Madrid). I'm passionate about working with ReactJS and TypeScript to create impactful user experiences. Exploring the possibilities of web development.
 
-- 💻 Technologies: TypeScript, ReactJS, Hooks, Sass, Git, Redux, Firebase, MongoDB, MeteorJS.
+- 💻 Technologies: TypeScript, ReactJS, Hooks, TailwindCSS, Sass, Git, Redux, Firebase, MongoDB, MeteorJS.
 
 - 📫 How to reach me: eddiberenguer@gmail.com.
 
